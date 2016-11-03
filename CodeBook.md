@@ -16,7 +16,7 @@ The features selected for this data were specified in the assignment as only the
 
 Activity Labels
 
-walking
+*walking
 
 walking_upstairs
 
