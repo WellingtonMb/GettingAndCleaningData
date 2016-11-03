@@ -10,6 +10,7 @@ The data linked to from the course website represent data collected from the acc
   http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 Feature Selection
+------------------
 
 The features selected for this data were specified in the assignment as only the measurements on the mean and standard deviation for each measurement.
 
