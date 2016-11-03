@@ -15,8 +15,8 @@ Feature Selection
 The features selected for this data were specified in the assignment as only the measurements on the mean and standard deviation for each measurement.
 
 Activity Labels
-
-*walking
+---------------
+walking
 
 walking_upstairs
 
