@@ -2,6 +2,7 @@ CodeBook
 ========
 
 Data source
+-----------
 
 The Dataset is obtained from the "Human Activity Recognition Using Smartphones Data Set" downloaded from the follwing url: "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"http://arch
 
