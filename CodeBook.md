@@ -16,14 +16,14 @@ The features selected for this data were specified in the assignment as only the
 
 Activity Labels
 ---------------
-walking
+Walking
 
-walking_upstairs
+Walking_upstairs
 
-walking_downstairs
+Walking_downstairs
 
-sitting
+Sitting
 
-standing
+Standing
 
-laying
+Laying
